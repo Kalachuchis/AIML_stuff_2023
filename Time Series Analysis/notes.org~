@@ -1,0 +1,43 @@
+* Time Series Analysis
+
+** Time Series Analysis with Pandas
+
+*** Datetime library
+
+#+NAME: SUBMODULES_DATETIME
+
+| datetime    | setting of date *Args(year,date,month) |
+| timedelta   | change of date                         |
+| to_datetime | convert string to date                 |
+
+1. datetime
+   - seting of date
+   - ARGS: year, date, month
+2. timedelta
+   - difference of date
+3. to_datetime
+   - convert string to date
+
+
+*** Pandas Functions
+
+1. *Resampling*
+   - alter aggregation levels
+   - changes time interval if current interval has missing values
+2. *Shifting*
+   - index + 1 or - 1 to next column using same data
+     | 1 | na | na |
+     |---+----+----|
+     | 2 |  1 | na |
+     | 3 |  2 | 1  |
+   - used for forecasting
+    
+3. *Rolling*
+   [1,2,3,4,5,6,7]
+   rolling(3).sum()
+   would iterate by 3
+   [(1+2+3+), (2+3+4), ...]
+   
+** TIme Series Decomposition
+
+** Forecasting Models

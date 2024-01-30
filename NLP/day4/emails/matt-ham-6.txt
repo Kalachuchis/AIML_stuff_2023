@@ -1,0 +1,18 @@
+Thank you for your interest in AWS Innovate - Data and AI/ML Edition. We are pleased to inform you that the sessions are now available on-demand until March 31, 2023.
+
+NEW! Don’t miss the keynote by Swami Sivasubramanian, Vice President, Data and Machine Learning, AWS as he showcases the latest AWS innovations to transform your organization’s data into meaningful insights and actions. Catch up on the keynote and 60+ breakout sessions now!
+	
+Submit your feedback:
+Submit the survey by March 1, 2023 and receive USD25 AWS credits. Eligible participants will receive AWS credits by March 31, 2023.
+ 
+Dive deeper into these topics:
+Latest announcements and innovations in AI/ML and big data
+Building a data-driven organization of tomorrow
+How to prepare data, build, train, and deploy ML models at scale
+Expert tips to automate and orchestrate high-quality ML workflows
+AI/ML security and operations best practices
+
+We look forward to engage with you at our next event.
+
+Best regards,
+Amazon Web Services

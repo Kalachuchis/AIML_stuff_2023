@@ -1,0 +1,10 @@
+Dear Pointwesters,
+
+Google has released a patch for the 2nd most actively exploited zero-day Chrome vulnerability.    This vulnerability affects 3.2 billion Chrome users worldwide. 
+
+For users of Microsoft Edge, which which uses Chromium, please ensure that your MS Edge version is based on 99.0.4844.84
+
+Reports say that this vulnerability affects the Chrome JavaScript and WebAssembly engine and has the capability to install what is essentially a "key logger" intercepting keystrokes on Chrome.
+
+Google Patches This Year's Second Actively Exploited Chrome Zero-Day (pcmag.com)
+Rene P. Canlas

@@ -1,0 +1,3 @@
+If your time permits, kindly register as this will help understand how data projects (such as UDB) consume their data. Of particular note is the topic for dashboarding best practices, administration, and embedding. Typical AWS classes begin with business cases then end with technical deepdives, so hopefully it's the same here so you won't need to attend all three days.
+
+Thank you to Ms for putting this in our radar.

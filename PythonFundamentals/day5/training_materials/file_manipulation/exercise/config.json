@@ -1,0 +1,52 @@
+{
+    "countries": [
+        {
+            "name": "Canada",
+            "continent": "North America"
+        },
+        {
+            "name": "Mexico",
+            "continent": "North America"
+        },
+        {
+            "name": "Gabon",
+            "continent": "Africa"
+        },
+        {
+            "name": "Algeria",
+            "continent": "Africa"
+        },
+        {
+            "name": "South Africa",
+            "continent": "Africa"
+        },
+        {
+            "name": "Peru",
+            "continent": "South America"
+        },
+        {
+            "name": "Poland",
+            "continent": "Europe"
+        },
+        {
+            "name": "Spain",
+            "continent": "Europe"
+        },
+        {
+            "name": "China",
+            "continent": "Asia"
+        },
+        {
+            "name": "Pakistan",
+            "continent": "Asia"
+        },
+        {
+            "name": "Japan",
+            "continent": "Asia"
+        },
+        {
+            "name": "Australia",
+            "continent": "Australia"
+        }
+    ]
+}

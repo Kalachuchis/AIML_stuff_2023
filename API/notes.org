@@ -1,0 +1,22 @@
+* API
+application programming interface (API)
+** Terminologies
+- Clients
+- Resources
+- Request
+- Response
+** REST
+Representational State Transfer (REST)
+*** REST PRinciples
+- Uniform Interface
+- Statelessness
+- Layered System
+- Cacheability
+- Client-Server
+*** API Call
+1. client sends a request
+2. server authenticates request
+3. server recieves request
+4. server returns response to client
+*** 
+

@@ -1,0 +1,134 @@
+#+title: Notes
+
+
+* Neural Networks
+- emulation of how the brain learns
+- can recognize hidden patterns
+
+**  Recognizing Digits
+
+ visual inormation and extracts features such as lines, edges and contours
+
+ easy for your brain to do but impossible to describe how to
+
+
+** RECAP
+
+*** Linear Regression
+
+Single layer neural network with no hiddent layers
+
+y =mx + b
+
+*** Logistic Regression
+
+Single layer neural network with no hiddent layers with sigmoid
+
+
+sigmoid:
+    o(z) = 1/1+e^z
+
+** Parts
+
+*** Structures
+getting the weighted sum and applying a sigmoid
+
+
+*** Neurons
+*** Hidden Layers
+** Back Propagation
+
+re changing weights and bias of previous neuron iteration to have a better neuron score
+
+
+
+* Decision Trees and Random Forest
+** Decision Tree Learning
+
+*** Entropy
+ measure of randomness
+
+*** Information gain
+ split data set to reduce randomness
+
+*** Problems with decision trees
+ - Overfitting
+
+   as much as posible, splitting should be equal.
+   avoid one sided splitting (splitting too specifically)
+
+
+* Suport Vector Machines
+very recent algorithm
+**   Separating Hyperplane:
+ - separates two classes on an x y axis
+ - best separating hyperplane has the largest margin
+   - margin from line to vectors
+
+**   Challenge: non-linearly separatable data
+ - make a circle
+   - radial basis function
+   - guassian
+ - make a curvy line
+   - polynomial
+* AWS SageMaker
+** Services and Capabilites
+Data prep
+building ML models
+training and tuning AI
+deploying and managing endpoints
+** Interfacing
+AWS Console
+ - console and studio AI
+AWS CLI
+ - Command line
+AWS SDK(Boto3)
+ - for all AWS services
+ - multiple languages
+SageMaker SDK
+ - mainly for daata scientists
+ - Python only
+
+
+** AutoPilot
+automatic AIML
+
+can only do CSV or Parquet
+** Built-in algorithms
+* Deep Learning
+** Convolution Neural Network
+takes in the whole image instead of converting to a 1d array
+
+*** Convolution Layer
+convolution - multiply by kernel (parang yung sa opencv yung nag lalagay ka ng padding)
+objective is to extract high level features to extract more complex patterns
+
+Hyperparameters
+ - Kernel size
+   n x n matrix
+   n should be odd
+   should be square
+ - Stride
+   yung pag skip sa pixels
+   can speed up training time
+   only use if u can affor to lose pixels
+ -
+ - Activation Function
+
+*** Pooling layer
+max pooling - noise suppression
+*** Fully Connected Layer
+aka = dens  e
+Hyperparameters
+ - activation function
+   logistic/sigmoid
+
+*** Model Creation
+
+**** Prob loss
+
+**** Regression loss
+mean squared - target variable normally distributed
+*** Optimizer
+optimize parameters weights
+backtracking methods

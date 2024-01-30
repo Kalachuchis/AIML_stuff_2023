@@ -1,0 +1,78 @@
+* Time Series Analysis
+
+** Time Series Analysis with Pandas
+
+*** Datetime library
+
+#+NAME: SUBMODULES_DATETIME
+
+| datetime    | setting of date *Args(year,date,month) |
+| timedelta   | change of date                         |
+| to_datetime | convert string to date                 |
+
+1. datetime
+   - seting of date
+   - ARGS: year, date, month
+2. timedelta
+   - difference of date
+3. to_datetime
+   - convert string to date
+
+
+*** Pandas Functions
+
+1. *Resampling*
+   - alter aggregation levels
+   - changes time interval if current interval has missing values
+2. *Shifting*
+   - index + 1 or - 1 to next column using same data
+     | 1 | na | na |
+     | 2 |  1 | na |
+     | 3 |  2 | 1  |
+   - used for forecasting
+    
+3. *Rolling*
+   #+begin_src python
+   [1,2,3,4,5,6,7]
+   rolling(3).sum()
+   # would iterate by 3
+   [(1+2+3), (2+3+4), ..]
+   #+end_src
+   you can use sum, mean, etc
+   to smooth out a graph
+   
+
+** TIme Series Decomposition
+
+PARTS:
+- Trend -> long term invrease or decrease in the data
+  + uses rolling function
+- Seasonality -> refers to regular patterns in the data that occurs at
+  + DETREND THE DATA: trend - actual data (ADDITIVE)
+  + group by month then get average 
+- Noise/Resiudal -> random variation in data
+  + detrended - seasonality
+
+:
+- additive
+- multiplicative
+
+
+  
+** Anomaly Detection and Forecasting - Statistical Techniques
+- (Simple) Moving Average
+  + getting the general trend of the data set
+  + to get a smoother plot
+  + (1/k)
+- Exponentially Weighted Moving Average
+  - a(point[n]) + (1-a)EWMA[n-1]
+  - anomaly are detected using standard deviation from current point
+*** Forecasting
+Predicting future behavior using past and present events
+- Autoregressive Models
+- Moving Average Models
+- ARMA 
+- ARIMA
+- SARIMA
+  
+  

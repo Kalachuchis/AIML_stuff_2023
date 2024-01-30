@@ -1,0 +1,14 @@
+Hi Pointwesters!
+Thank you for expressing your support for the continued development of Skriba! As part of our product development roadmap, Skriba is being trained to recognize commonly used identification documents via OCR and Computer Vision.
+Currently, we are requesting samples of the following documents:
+UMID
+Philippine Passport
+Postal ID
+PRC ID
+Pag-IBIG ID
+TIN ID
+Voter’s ID
+Globe Bill
+Manila Water Bill
+Having more samples at hand will allow us to better train the system to identify and read information from the files provided by our users. Contributions from volunteers like you will greatly help us maximize the capability of the product in delivering its purpose and build trust among our client subscribers.
+Rest assured that all information will be handled with utmost confidentiality by the Skriba Model Training Team as we continue to uphold our commitment to data privacy and security. Once necessary training and testing have been completed, all copies of provided documents will be removed from Skriba servers. 

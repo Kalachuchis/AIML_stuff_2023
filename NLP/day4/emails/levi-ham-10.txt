@@ -1,0 +1,8 @@
+Good morning, All.
+This is to kindly request your help for Skriba. As part of our product development roadmap, Skriba is being trained to recognize commonly used identification documents via OCR and Computer Vision. 
+In this, we will be using your submitted NBI Clearance during pre-hiring. Below is the link for the consent form. 
+Consent Form
+Deadline: April 1, 2022
+If you have any questions, please do not hesitate to contact us.
+Thank you.
+Regards,

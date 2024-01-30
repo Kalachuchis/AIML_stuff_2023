@@ -1,0 +1,7 @@
+Event:	Retirement of the Reverse Proxy server.
+Date/Time	March 8, 2023
+Details	Affected Services: External access to Timetracker and Whizible
+Work Around: Remote employees may use the OpenVPN connection to access Pointwest internal sites or the option of Work in Office for the needed access.
+
+Description: Decommissioning of the Reverse Proxy server.
+Point Person/s	PTAC

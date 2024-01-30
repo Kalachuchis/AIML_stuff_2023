@@ -1,0 +1,14 @@
+name: bootcamp
+channels:
+  - defaults
+dependencies:
+  - python=3.10
+  - numpy
+  - scikit-learn
+  - pandas
+  - ipykernel
+  - matplotlib
+  - seaborn
+  - black
+  - opencv
+prefix: /home/iggy/miniconda3/envs/bootcamp

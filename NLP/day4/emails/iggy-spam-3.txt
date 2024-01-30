@@ -1,0 +1,38 @@
+
+Hey Iggy ,
+
+I've received several requests to update my React course, and I heard you. That's why I'm excited to announce my brand new React course, React 18 for Beginners.
+
+https://codewithmosh.com/p/ultimate-react-part1
+
+This course is designed to help you learn React from scratch and confidently build real-world apps using the latest tools and techniques.
+
+One thing that makes this course different is that we're using TypeScript. TypeScript is a game-changer - it's a statically typed language that helps you write better code and catch bugs before you even run it. And the best part? You'll learn how to write more reliable and scalable React code that will make you a pro in no time. It's an awesome chance to discover the benefits of TypeScript and see how it can take your React skills to the next level.
+
+The course includes real-world examples, exercises and a full-blown production-grade project. By the end of this course, you'll build and deploy a video game discovery web app.
+
+Whether you're a beginner who wants to learn React from scratch or a React developer who wants to stay on top of the latest tools and techniques, this course is for you.
+
+If you have an active subscription at Code with Mosh, you'll get this course for free as part of your subscription; otherwise, until Saturday, March 18, 11:59 pm, you can enroll at a special launch price. You'll get lifetime access to the course, 8 hours of video, 140 lessons, summary notes, cheat sheets, and a 30-day money-back guarantee.
+
+Please note that this is an entirely different course from my old React course and it will not be available for free to those who purchased the old course. But you can still get the course at a highly discounted rate until Saturday!
+
+Don't miss out on this opportunity to learn the latest React tools and techniques and take your skills to the next level.
+
+Enroll today!
+
+ 
+
+MOSH HAMEDANI
+
+
+Hi! My name is Mosh Hamedani. I'm a software engineer with two decades of experience and I've taught millions of people how to code and become professional software engineers through my online courses and YouTube channel. It’s my mission to make coding accessible to everyone.
+ 
+Tell your friends about this offer
+
+Facebook
+ 
+Twitter
+ 
+Programming with Mosh, Cressy St, Melbourne Victoria 3000, Australia
+Unsubscribe

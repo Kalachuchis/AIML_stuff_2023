@@ -1,0 +1,602 @@
+{
+  "thank": {
+    "doc_class": "ham",
+    "ham_count": 23,
+    "spam_count": 1,
+    "polarity": 23.0
+  },
+  "regards": {
+    "doc_class": "ham",
+    "ham_count": 20,
+    "spam_count": 1,
+    "polarity": 20.0
+  },
+  "team": {
+    "doc_class": "ham",
+    "ham_count": 15,
+    "spam_count": 1,
+    "polarity": 15.0
+  },
+  "pointwesters": {
+    "doc_class": "ham",
+    "ham_count": 15,
+    "spam_count": 1,
+    "polarity": 15.0
+  },
+  "may": {
+    "doc_class": "ham",
+    "ham_count": 14,
+    "spam_count": 1,
+    "polarity": 14.0
+  },
+  "would": {
+    "doc_class": "ham",
+    "ham_count": 11,
+    "spam_count": 1,
+    "polarity": 11.0
+  },
+  "form": {
+    "doc_class": "ham",
+    "ham_count": 11,
+    "spam_count": 1,
+    "polarity": 11.0
+  },
+  "pointwest": {
+    "doc_class": "ham",
+    "ham_count": 10,
+    "spam_count": 1,
+    "polarity": 10.0
+  },
+  "attached": {
+    "doc_class": "ham",
+    "ham_count": 10,
+    "spam_count": 1,
+    "polarity": 10.0
+  },
+  "good": {
+    "doc_class": "ham",
+    "ham_count": 10,
+    "spam_count": 1,
+    "polarity": 10.0
+  },
+  "answer": {
+    "doc_class": "ham",
+    "ham_count": 9,
+    "spam_count": 1,
+    "polarity": 9.0
+  },
+  "know": {
+    "doc_class": "ham",
+    "ham_count": 9,
+    "spam_count": 1,
+    "polarity": 9.0
+  },
+  "event": {
+    "doc_class": "ham",
+    "ham_count": 9,
+    "spam_count": 1,
+    "polarity": 9.0
+  },
+  "request": {
+    "doc_class": "ham",
+    "ham_count": 9,
+    "spam_count": 1,
+    "polarity": 9.0
+  },
+  "there": {
+    "doc_class": "ham",
+    "ham_count": 8,
+    "spam_count": 1,
+    "polarity": 8.0
+  },
+  "kindly": {
+    "doc_class": "ham",
+    "ham_count": 8,
+    "spam_count": 1,
+    "polarity": 8.0
+  },
+  "send": {
+    "doc_class": "ham",
+    "ham_count": 8,
+    "spam_count": 1,
+    "polarity": 8.0
+  },
+  "happy": {
+    "doc_class": "ham",
+    "ham_count": 8,
+    "spam_count": 1,
+    "polarity": 8.0
+  },
+  "link": {
+    "doc_class": "ham",
+    "ham_count": 8,
+    "spam_count": 1,
+    "polarity": 8.0
+  },
+  "well": {
+    "doc_class": "ham",
+    "ham_count": 7,
+    "spam_count": 1,
+    "polarity": 7.0
+  },
+  "possible": {
+    "doc_class": "ham",
+    "ham_count": 7,
+    "spam_count": 1,
+    "polarity": 7.0
+  },
+  "training": {
+    "doc_class": "ham",
+    "ham_count": 7,
+    "spam_count": 1,
+    "polarity": 7.0
+  },
+  "been": {
+    "doc_class": "ham",
+    "ham_count": 7,
+    "spam_count": 1,
+    "polarity": 7.0
+  },
+  "being": {
+    "doc_class": "ham",
+    "ham_count": 7,
+    "spam_count": 1,
+    "polarity": 7.0
+  },
+  "group": {
+    "doc_class": "ham",
+    "ham_count": 7,
+    "spam_count": 1,
+    "polarity": 7.0
+  },
+  "their": {
+    "doc_class": "ham",
+    "ham_count": 7,
+    "spam_count": 1,
+    "polarity": 7.0
+  },
+  "hope": {
+    "doc_class": "ham",
+    "ham_count": 7,
+    "spam_count": 1,
+    "polarity": 7.0
+  },
+  "talk": {
+    "doc_class": "ham",
+    "ham_count": 6,
+    "spam_count": 1,
+    "polarity": 6.0
+  },
+  "office": {
+    "doc_class": "ham",
+    "ham_count": 6,
+    "spam_count": 1,
+    "polarity": 6.0
+  },
+  "development": {
+    "doc_class": "ham",
+    "ham_count": 6,
+    "spam_count": 1,
+    "polarity": 6.0
+  },
+  "account": {
+    "doc_class": "ham",
+    "ham_count": 6,
+    "spam_count": 1,
+    "polarity": 6.0
+  },
+  "session": {
+    "doc_class": "ham",
+    "ham_count": 6,
+    "spam_count": 1,
+    "polarity": 6.0
+  },
+  "management": {
+    "doc_class": "ham",
+    "ham_count": 6,
+    "spam_count": 1,
+    "polarity": 6.0
+  },
+  "password": {
+    "doc_class": "ham",
+    "ham_count": 6,
+    "spam_count": 1,
+    "polarity": 6.0
+  },
+  "thanks": {
+    "doc_class": "ham",
+    "ham_count": 6,
+    "spam_count": 1,
+    "polarity": 6.0
+  },
+  "deadline": {
+    "doc_class": "ham",
+    "ham_count": 6,
+    "spam_count": 1,
+    "polarity": 6.0
+  },
+  "once": {
+    "doc_class": "ham",
+    "ham_count": 6,
+    "spam_count": 1,
+    "polarity": 6.0
+  },
+  "questions": {
+    "doc_class": "ham",
+    "ham_count": 6,
+    "spam_count": 1,
+    "polarity": 6.0
+  },
+  "concerns": {
+    "doc_class": "ham",
+    "ham_count": 6,
+    "spam_count": 1,
+    "polarity": 6.0
+  },
+  "set": {
+    "doc_class": "ham",
+    "ham_count": 5,
+    "spam_count": 1,
+    "polarity": 5.0
+  },
+  "private": {
+    "doc_class": "ham",
+    "ham_count": 5,
+    "spam_count": 1,
+    "polarity": 5.0
+  },
+  "invite": {
+    "doc_class": "ham",
+    "ham_count": 5,
+    "spam_count": 1,
+    "polarity": 5.0
+  },
+  "able": {
+    "doc_class": "ham",
+    "ham_count": 5,
+    "spam_count": 1,
+    "polarity": 5.0
+  },
+  "hello": {
+    "doc_class": "ham",
+    "ham_count": 5,
+    "spam_count": 1,
+    "polarity": 5.0
+  },
+  "received": {
+    "doc_class": "ham",
+    "ham_count": 5,
+    "spam_count": 1,
+    "polarity": 5.0
+  },
+  "employees": {
+    "doc_class": "ham",
+    "ham_count": 5,
+    "spam_count": 1,
+    "polarity": 5.0
+  },
+  "am": {
+    "doc_class": "ham",
+    "ham_count": 5,
+    "spam_count": 1,
+    "polarity": 5.0
+  },
+  "april": {
+    "doc_class": "ham",
+    "ham_count": 5,
+    "spam_count": 1,
+    "polarity": 5.0
+  },
+  "following": {
+    "doc_class": "ham",
+    "ham_count": 5,
+    "spam_count": 1,
+    "polarity": 5.0
+  },
+  "healthy": {
+    "doc_class": "ham",
+    "ham_count": 5,
+    "spam_count": 1,
+    "polarity": 5.0
+  },
+  "receive": {
+    "doc_class": "ham",
+    "ham_count": 5,
+    "spam_count": 1,
+    "polarity": 5.0
+  },
+  "forward": {
+    "doc_class": "ham",
+    "ham_count": 5,
+    "spam_count": 1,
+    "polarity": 5.0
+  },
+  "ask": {
+    "doc_class": "ham",
+    "ham_count": 5,
+    "spam_count": 1,
+    "polarity": 5.0
+  },
+  "via": {
+    "doc_class": "ham",
+    "ham_count": 5,
+    "spam_count": 1,
+    "polarity": 5.0
+  },
+  "sent": {
+    "doc_class": "ham",
+    "ham_count": 5,
+    "spam_count": 1,
+    "polarity": 5.0
+  },
+  "reference": {
+    "doc_class": "ham",
+    "ham_count": 5,
+    "spam_count": 1,
+    "polarity": 5.0
+  },
+  "file": {
+    "doc_class": "ham",
+    "ham_count": 5,
+    "spam_count": 1,
+    "polarity": 5.0
+  },
+  "monday": {
+    "doc_class": "ham",
+    "ham_count": 5,
+    "spam_count": 1,
+    "polarity": 5.0
+  },
+  "please": {
+    "doc_class": "ham",
+    "ham_count": 26,
+    "spam_count": 6,
+    "polarity": 4.3333333333
+  },
+  "will": {
+    "doc_class": "ham",
+    "ham_count": 25,
+    "spam_count": 6,
+    "polarity": 4.1666666667
+  },
+  "point": {
+    "doc_class": "ham",
+    "ham_count": 4,
+    "spam_count": 1,
+    "polarity": 4.0
+  },
+  "pm": {
+    "doc_class": "ham",
+    "ham_count": 4,
+    "spam_count": 1,
+    "polarity": 4.0
+  },
+  "working": {
+    "doc_class": "ham",
+    "ham_count": 4,
+    "spam_count": 1,
+    "polarity": 4.0
+  },
+  "further": {
+    "doc_class": "ham",
+    "ham_count": 4,
+    "spam_count": 1,
+    "polarity": 4.0
+  },
+  "area": {
+    "doc_class": "ham",
+    "ham_count": 4,
+    "spam_count": 1,
+    "polarity": 4.0
+  },
+  "error": {
+    "doc_class": "ham",
+    "ham_count": 4,
+    "spam_count": 1,
+    "polarity": 4.0
+  },
+  "delete": {
+    "doc_class": "ham",
+    "ham_count": 4,
+    "spam_count": 1,
+    "polarity": 4.0
+  },
+  "intended": {
+    "doc_class": "ham",
+    "ham_count": 4,
+    "spam_count": 1,
+    "polarity": 4.0
+  },
+  "computer": {
+    "doc_class": "ham",
+    "ham_count": 4,
+    "spam_count": 1,
+    "polarity": 4.0
+  },
+  "confidential": {
+    "doc_class": "ham",
+    "ham_count": 4,
+    "spam_count": 1,
+    "polarity": 4.0
+  },
+  "protected": {
+    "doc_class": "ham",
+    "ham_count": 4,
+    "spam_count": 1,
+    "polarity": 4.0
+  },
+  "facilities": {
+    "doc_class": "ham",
+    "ham_count": 4,
+    "spam_count": 1,
+    "polarity": 4.0
+  },
+  "innovation": {
+    "doc_class": "ham",
+    "ham_count": 4,
+    "spam_count": 1,
+    "polarity": 4.0
+  },
+  "we": {
+    "doc_class": "ham",
+    "ham_count": 24,
+    "spam_count": 6,
+    "polarity": 4.0
+  },
+  "ptac": {
+    "doc_class": "ham",
+    "ham_count": 4,
+    "spam_count": 1,
+    "polarity": 4.0
+  },
+  "commitment": {
+    "doc_class": "ham",
+    "ham_count": 4,
+    "spam_count": 1,
+    "polarity": 4.0
+  },
+  "submit": {
+    "doc_class": "ham",
+    "ham_count": 4,
+    "spam_count": 1,
+    "polarity": 4.0
+  },
+  "thread": {
+    "doc_class": "ham",
+    "ham_count": 4,
+    "spam_count": 1,
+    "polarity": 4.0
+  },
+  "head": {
+    "doc_class": "ham",
+    "ham_count": 4,
+    "spam_count": 1,
+    "polarity": 4.0
+  },
+  "improve": {
+    "doc_class": "ham",
+    "ham_count": 4,
+    "spam_count": 1,
+    "polarity": 4.0
+  },
+  "has": {
+    "doc_class": "ham",
+    "ham_count": 4,
+    "spam_count": 1,
+    "polarity": 4.0
+  },
+  "torrente": {
+    "doc_class": "ham",
+    "ham_count": 4,
+    "spam_count": 1,
+    "polarity": 4.0
+  },
+  "adeth": {
+    "doc_class": "ham",
+    "ham_count": 4,
+    "spam_count": 1,
+    "polarity": 4.0
+  },
+  "notify": {
+    "doc_class": "ham",
+    "ham_count": 4,
+    "spam_count": 1,
+    "polarity": 4.0
+  },
+  "building": {
+    "doc_class": "ham",
+    "ham_count": 4,
+    "spam_count": 1,
+    "polarity": 4.0
+  },
+  "required": {
+    "doc_class": "ham",
+    "ham_count": 4,
+    "spam_count": 1,
+    "polarity": 4.0
+  },
+  "contributions": {
+    "doc_class": "ham",
+    "ham_count": 4,
+    "spam_count": 1,
+    "polarity": 4.0
+  },
+  "proxy": {
+    "doc_class": "ham",
+    "ham_count": 4,
+    "spam_count": 1,
+    "polarity": 4.0
+  },
+  "connection": {
+    "doc_class": "ham",
+    "ham_count": 4,
+    "spam_count": 1,
+    "polarity": 4.0
+  },
+  "option": {
+    "doc_class": "ham",
+    "ham_count": 4,
+    "spam_count": 1,
+    "polarity": 4.0
+  },
+  "wellness": {
+    "doc_class": "ham",
+    "ham_count": 4,
+    "spam_count": 1,
+    "polarity": 4.0
+  },
+  "corporation": {
+    "doc_class": "ham",
+    "ham_count": 4,
+    "spam_count": 1,
+    "polarity": 4.0
+  },
+  "learning": {
+    "doc_class": "ham",
+    "ham_count": 4,
+    "spam_count": 1,
+    "polarity": 4.0
+  },
+  "wednesday": {
+    "doc_class": "ham",
+    "ham_count": 4,
+    "spam_count": 1,
+    "polarity": 4.0
+  },
+  "looking": {
+    "doc_class": "ham",
+    "ham_count": 4,
+    "spam_count": 1,
+    "polarity": 4.0
+  },
+  "philippines": {
+    "doc_class": "ham",
+    "ham_count": 4,
+    "spam_count": 1,
+    "polarity": 4.0
+  },
+  "excellence": {
+    "doc_class": "ham",
+    "ham_count": 4,
+    "spam_count": 1,
+    "polarity": 4.0
+  },
+  "center": {
+    "doc_class": "ham",
+    "ham_count": 4,
+    "spam_count": 1,
+    "polarity": 4.0
+  },
+  "like": {
+    "doc_class": "ham",
+    "ham_count": 8,
+    "spam_count": 2,
+    "polarity": 4.0
+  },
+  "note": {
+    "doc_class": "ham",
+    "ham_count": 8,
+    "spam_count": 2,
+    "polarity": 4.0
+  }
+}

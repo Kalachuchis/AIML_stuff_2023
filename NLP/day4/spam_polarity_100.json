@@ -1,0 +1,602 @@
+{
+  "get": {
+    "doc_class": "spam",
+    "ham_count": 1,
+    "spam_count": 27,
+    "polarity": 27.0
+  },
+  "off": {
+    "doc_class": "spam",
+    "ham_count": 1,
+    "spam_count": 16,
+    "polarity": 16.0
+  },
+  "courses": {
+    "doc_class": "spam",
+    "ham_count": 1,
+    "spam_count": 13,
+    "polarity": 13.0
+  },
+  "chance": {
+    "doc_class": "spam",
+    "ham_count": 1,
+    "spam_count": 12,
+    "polarity": 12.0
+  },
+  "only": {
+    "doc_class": "spam",
+    "ham_count": 1,
+    "spam_count": 11,
+    "polarity": 11.0
+  },
+  "tech": {
+    "doc_class": "spam",
+    "ham_count": 1,
+    "spam_count": 10,
+    "polarity": 10.0
+  },
+  "start": {
+    "doc_class": "spam",
+    "ham_count": 1,
+    "spam_count": 10,
+    "polarity": 10.0
+  },
+  "february": {
+    "doc_class": "spam",
+    "ham_count": 1,
+    "spam_count": 10,
+    "polarity": 10.0
+  },
+  "buy": {
+    "doc_class": "spam",
+    "ham_count": 1,
+    "spam_count": 10,
+    "polarity": 10.0
+  },
+  "academy": {
+    "doc_class": "spam",
+    "ham_count": 1,
+    "spam_count": 9,
+    "polarity": 9.0
+  },
+  "america": {
+    "doc_class": "spam",
+    "ham_count": 1,
+    "spam_count": 9,
+    "polarity": 9.0
+  },
+  "when": {
+    "doc_class": "spam",
+    "ham_count": 1,
+    "spam_count": 9,
+    "polarity": 9.0
+  },
+  "states": {
+    "doc_class": "spam",
+    "ham_count": 1,
+    "spam_count": 9,
+    "polarity": 9.0
+  },
+  "opt-out": {
+    "doc_class": "spam",
+    "ham_count": 1,
+    "spam_count": 9,
+    "polarity": 9.0
+  },
+  "united": {
+    "doc_class": "spam",
+    "ham_count": 1,
+    "spam_count": 9,
+    "polarity": 9.0
+  },
+  "ed": {
+    "doc_class": "spam",
+    "ham_count": 1,
+    "spam_count": 9,
+    "polarity": 9.0
+  },
+  "shaw": {
+    "doc_class": "spam",
+    "ham_count": 1,
+    "spam_count": 9,
+    "polarity": 9.0
+  },
+  "offer": {
+    "doc_class": "spam",
+    "ham_count": 1,
+    "spam_count": 9,
+    "polarity": 9.0
+  },
+  "touch": {
+    "doc_class": "spam",
+    "ham_count": 1,
+    "spam_count": 9,
+    "polarity": 9.0
+  },
+  "one": {
+    "doc_class": "spam",
+    "ham_count": 1,
+    "spam_count": 9,
+    "polarity": 9.0
+  },
+  "youtube": {
+    "doc_class": "spam",
+    "ham_count": 1,
+    "spam_count": 9,
+    "polarity": 9.0
+  },
+  "cash": {
+    "doc_class": "spam",
+    "ham_count": 1,
+    "spam_count": 9,
+    "polarity": 9.0
+  },
+  "hampshire": {
+    "doc_class": "spam",
+    "ham_count": 1,
+    "spam_count": 9,
+    "polarity": 9.0
+  },
+  "unlimited": {
+    "doc_class": "spam",
+    "ham_count": 1,
+    "spam_count": 8,
+    "polarity": 8.0
+  },
+  "yourself": {
+    "doc_class": "spam",
+    "ham_count": 1,
+    "spam_count": 8,
+    "polarity": 8.0
+  },
+  "win": {
+    "doc_class": "spam",
+    "ham_count": 1,
+    "spam_count": 8,
+    "polarity": 8.0
+  },
+  "twitter": {
+    "doc_class": "spam",
+    "ham_count": 1,
+    "spam_count": 8,
+    "polarity": 8.0
+  },
+  "facebook": {
+    "doc_class": "spam",
+    "ham_count": 1,
+    "spam_count": 8,
+    "polarity": 8.0
+  },
+  "privacy": {
+    "doc_class": "spam",
+    "ham_count": 1,
+    "spam_count": 8,
+    "polarity": 8.0
+  },
+  "llc": {
+    "doc_class": "spam",
+    "ham_count": 1,
+    "spam_count": 8,
+    "polarity": 8.0
+  },
+  "bonus": {
+    "doc_class": "spam",
+    "ham_count": 1,
+    "spam_count": 8,
+    "polarity": 8.0
+  },
+  "fresh": {
+    "doc_class": "spam",
+    "ham_count": 1,
+    "spam_count": 8,
+    "polarity": 8.0
+  },
+  "discount": {
+    "doc_class": "spam",
+    "ham_count": 1,
+    "spam_count": 7,
+    "polarity": 7.0
+  },
+  "policy": {
+    "doc_class": "spam",
+    "ham_count": 1,
+    "spam_count": 7,
+    "polarity": 7.0
+  },
+  "play": {
+    "doc_class": "spam",
+    "ham_count": 1,
+    "spam_count": 7,
+    "polarity": 7.0
+  },
+  "reviews": {
+    "doc_class": "spam",
+    "ham_count": 1,
+    "spam_count": 7,
+    "polarity": 7.0
+  },
+  "invest": {
+    "doc_class": "spam",
+    "ham_count": 1,
+    "spam_count": 7,
+    "polarity": 7.0
+  },
+  "just": {
+    "doc_class": "spam",
+    "ham_count": 1,
+    "spam_count": 7,
+    "polarity": 7.0
+  },
+  "future": {
+    "doc_class": "spam",
+    "ham_count": 1,
+    "spam_count": 7,
+    "polarity": 7.0
+  },
+  "instagram": {
+    "doc_class": "spam",
+    "ham_count": 1,
+    "spam_count": 7,
+    "polarity": 7.0
+  },
+  "code": {
+    "doc_class": "spam",
+    "ham_count": 1,
+    "spam_count": 7,
+    "polarity": 7.0
+  },
+  "was": {
+    "doc_class": "spam",
+    "ham_count": 2,
+    "spam_count": 13,
+    "polarity": 6.5
+  },
+  "come": {
+    "doc_class": "spam",
+    "ham_count": 1,
+    "spam_count": 6,
+    "polarity": 6.0
+  },
+  "price": {
+    "doc_class": "spam",
+    "ham_count": 1,
+    "spam_count": 6,
+    "polarity": 6.0
+  },
+  "pro": {
+    "doc_class": "spam",
+    "ham_count": 1,
+    "spam_count": 6,
+    "polarity": 6.0
+  },
+  "limited": {
+    "doc_class": "spam",
+    "ham_count": 1,
+    "spam_count": 6,
+    "polarity": 6.0
+  },
+  "now": {
+    "doc_class": "spam",
+    "ham_count": 6,
+    "spam_count": 33,
+    "polarity": 5.5
+  },
+  "here": {
+    "doc_class": "spam",
+    "ham_count": 4,
+    "spam_count": 21,
+    "polarity": 5.25
+  },
+  "lifetime": {
+    "doc_class": "spam",
+    "ham_count": 1,
+    "spam_count": 5,
+    "polarity": 5.0
+  },
+  "claim": {
+    "doc_class": "spam",
+    "ham_count": 1,
+    "spam_count": 5,
+    "polarity": 5.0
+  },
+  "app": {
+    "doc_class": "spam",
+    "ham_count": 1,
+    "spam_count": 5,
+    "polarity": 5.0
+  },
+  "iphone": {
+    "doc_class": "spam",
+    "ham_count": 1,
+    "spam_count": 5,
+    "polarity": 5.0
+  },
+  "game": {
+    "doc_class": "spam",
+    "ham_count": 1,
+    "spam_count": 5,
+    "polarity": 5.0
+  },
+  "ends": {
+    "doc_class": "spam",
+    "ham_count": 1,
+    "spam_count": 5,
+    "polarity": 5.0
+  },
+  "news": {
+    "doc_class": "spam",
+    "ham_count": 1,
+    "spam_count": 5,
+    "polarity": 5.0
+  },
+  "act": {
+    "doc_class": "spam",
+    "ham_count": 1,
+    "spam_count": 5,
+    "polarity": 5.0
+  },
+  "subscription": {
+    "doc_class": "spam",
+    "ham_count": 1,
+    "spam_count": 5,
+    "polarity": 5.0
+  },
+  "go": {
+    "doc_class": "spam",
+    "ham_count": 1,
+    "spam_count": 5,
+    "polarity": 5.0
+  },
+  "video": {
+    "doc_class": "spam",
+    "ham_count": 1,
+    "spam_count": 5,
+    "polarity": 5.0
+  },
+  "it\u2019s": {
+    "doc_class": "spam",
+    "ham_count": 1,
+    "spam_count": 5,
+    "polarity": 5.0
+  },
+  "active": {
+    "doc_class": "spam",
+    "ham_count": 1,
+    "spam_count": 5,
+    "polarity": 5.0
+  },
+  "online": {
+    "doc_class": "spam",
+    "ham_count": 1,
+    "spam_count": 5,
+    "polarity": 5.0
+  },
+  "experience": {
+    "doc_class": "spam",
+    "ham_count": 1,
+    "spam_count": 5,
+    "polarity": 5.0
+  },
+  "try": {
+    "doc_class": "spam",
+    "ham_count": 1,
+    "spam_count": 5,
+    "polarity": 5.0
+  },
+  "miss": {
+    "doc_class": "spam",
+    "ham_count": 2,
+    "spam_count": 9,
+    "polarity": 4.5
+  },
+  "forever": {
+    "doc_class": "spam",
+    "ham_count": 1,
+    "spam_count": 4,
+    "polarity": 4.0
+  },
+  "empower": {
+    "doc_class": "spam",
+    "ham_count": 1,
+    "spam_count": 4,
+    "polarity": 4.0
+  },
+  "deposit": {
+    "doc_class": "spam",
+    "ham_count": 1,
+    "spam_count": 4,
+    "polarity": 4.0
+  },
+  "achieve": {
+    "doc_class": "spam",
+    "ham_count": 1,
+    "spam_count": 4,
+    "polarity": 4.0
+  },
+  "redeem": {
+    "doc_class": "spam",
+    "ham_count": 1,
+    "spam_count": 4,
+    "polarity": 4.0
+  },
+  "apple": {
+    "doc_class": "spam",
+    "ham_count": 1,
+    "spam_count": 4,
+    "polarity": 4.0
+  },
+  "course": {
+    "doc_class": "spam",
+    "ham_count": 1,
+    "spam_count": 4,
+    "polarity": 4.0
+  },
+  "right": {
+    "doc_class": "spam",
+    "ham_count": 1,
+    "spam_count": 4,
+    "polarity": 4.0
+  },
+  "personal": {
+    "doc_class": "spam",
+    "ham_count": 1,
+    "spam_count": 4,
+    "polarity": 4.0
+  },
+  "enroll": {
+    "doc_class": "spam",
+    "ham_count": 1,
+    "spam_count": 4,
+    "polarity": 4.0
+  },
+  "beginner": {
+    "doc_class": "spam",
+    "ham_count": 1,
+    "spam_count": 4,
+    "polarity": 4.0
+  },
+  "risk": {
+    "doc_class": "spam",
+    "ham_count": 1,
+    "spam_count": 4,
+    "polarity": 4.0
+  },
+  "australia": {
+    "doc_class": "spam",
+    "ham_count": 1,
+    "spam_count": 4,
+    "polarity": 4.0
+  },
+  "exercises": {
+    "doc_class": "spam",
+    "ham_count": 1,
+    "spam_count": 4,
+    "polarity": 4.0
+  },
+  "potential": {
+    "doc_class": "spam",
+    "ham_count": 1,
+    "spam_count": 4,
+    "polarity": 4.0
+  },
+  "g": {
+    "doc_class": "spam",
+    "ham_count": 1,
+    "spam_count": 4,
+    "polarity": 4.0
+  },
+  "popular": {
+    "doc_class": "spam",
+    "ham_count": 1,
+    "spam_count": 4,
+    "polarity": 4.0
+  },
+  "easy": {
+    "doc_class": "spam",
+    "ham_count": 1,
+    "spam_count": 4,
+    "polarity": 4.0
+  },
+  "party": {
+    "doc_class": "spam",
+    "ham_count": 1,
+    "spam_count": 4,
+    "polarity": 4.0
+  },
+  "total": {
+    "doc_class": "spam",
+    "ham_count": 1,
+    "spam_count": 4,
+    "polarity": 4.0
+  },
+  "sign": {
+    "doc_class": "spam",
+    "ham_count": 1,
+    "spam_count": 4,
+    "polarity": 4.0
+  },
+  "update": {
+    "doc_class": "spam",
+    "ham_count": 1,
+    "spam_count": 4,
+    "polarity": 4.0
+  },
+  "means": {
+    "doc_class": "spam",
+    "ham_count": 1,
+    "spam_count": 4,
+    "polarity": 4.0
+  },
+  "apps": {
+    "doc_class": "spam",
+    "ham_count": 1,
+    "spam_count": 4,
+    "polarity": 4.0
+  },
+  "browser": {
+    "doc_class": "spam",
+    "ham_count": 1,
+    "spam_count": 4,
+    "polarity": 4.0
+  },
+  "every": {
+    "doc_class": "spam",
+    "ham_count": 1,
+    "spam_count": 4,
+    "polarity": 4.0
+  },
+  "months": {
+    "doc_class": "spam",
+    "ham_count": 1,
+    "spam_count": 4,
+    "polarity": 4.0
+  },
+  "unlock": {
+    "doc_class": "spam",
+    "ham_count": 1,
+    "spam_count": 4,
+    "polarity": 4.0
+  },
+  "fun": {
+    "doc_class": "spam",
+    "ham_count": 1,
+    "spam_count": 4,
+    "polarity": 4.0
+  },
+  "control": {
+    "doc_class": "spam",
+    "ham_count": 1,
+    "spam_count": 4,
+    "polarity": 4.0
+  },
+  "ideas": {
+    "doc_class": "spam",
+    "ham_count": 1,
+    "spam_count": 4,
+    "polarity": 4.0
+  },
+  "btc": {
+    "doc_class": "spam",
+    "ham_count": 1,
+    "spam_count": 4,
+    "polarity": 4.0
+  },
+  "jackpot": {
+    "doc_class": "spam",
+    "ham_count": 1,
+    "spam_count": 4,
+    "polarity": 4.0
+  },
+  "freebitcoin": {
+    "doc_class": "spam",
+    "ham_count": 1,
+    "spam_count": 4,
+    "polarity": 4.0
+  },
+  "bitcointalk": {
+    "doc_class": "spam",
+    "ham_count": 1,
+    "spam_count": 4,
+    "polarity": 4.0
+  }
+}

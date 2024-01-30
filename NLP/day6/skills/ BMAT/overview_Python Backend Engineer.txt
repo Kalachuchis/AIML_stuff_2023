@@ -1,0 +1,1 @@
+In the Data team we want to have the most complete music metadata database in the world. As part of our team you will help in any stage: from integrating new sources, enhancing the entity reconciliations algorithms, creating data transformation pipelines, researching metadata matching processes, etc.
